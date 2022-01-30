@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "samuel kago Mburu",
+	"author": "samuel kago mburu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
